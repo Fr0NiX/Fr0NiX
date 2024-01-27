@@ -38,6 +38,10 @@
 ## My statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr0NiX&theme=tokyonight&show_icons=true&title_color=gruvbox)
 
+
+<a href="https://github.com/Fr0NiX/github-stats">
+<img src="https://github.com/Fr0NiX/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Fr0NiX/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0NiX&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You Are Visitor Number
