@@ -44,6 +44,8 @@
 <img src="https://github.com/Fr0NiX/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0NiX&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/939055674615287838)](https://discord.com/users/806151791146041344)
+
 ## You Are Visitor Number
 
 ![Koibito](https://koibito.qweme.dev/@Kybikcube?scale=2&theme=chainsaw-man&length=6)
