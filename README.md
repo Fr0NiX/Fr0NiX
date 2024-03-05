@@ -40,7 +40,5 @@
 
 
 <a href="https://github.com/Fr0NiX/github-stats">
-<img src="https://github.com/Fr0NiX/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Fr0NiX/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/806151791146041344)](https://discord.com/users/806151791146041344)
